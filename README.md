@@ -48,7 +48,7 @@ This project is a backend service for a ride-booking app inspired by Uber. It is
 
 ```bash
 git clone https://github.com/your-username/your-uber-project.git
-cd userApp
+cd userApplication
 
 // create the database named UberDB and create a postgis extension by running following command
 
